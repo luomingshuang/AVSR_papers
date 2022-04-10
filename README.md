@@ -1,1 +1,1 @@
-This repository mainly collect the papers for AVSR.
+This repository mainly collects the papers for AVSR.
