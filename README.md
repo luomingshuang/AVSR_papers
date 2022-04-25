@@ -4,6 +4,8 @@ This repository mainly collects the papers for AVSR.
 
 ## Lip Reading & Audio-Visual Speech Recognition
 - [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://arxiv.org/abs/2201.02184) (ICLR2022)
+#### Multilingual VSR
+- [Visual Speech Recognition for Multiple Languages in the Wild](https://arxiv.org/pdf/2202.13084.pdf) (Arxiv 2022)
 
 ## Text to Lip
 - [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831) (AAAI2022)
